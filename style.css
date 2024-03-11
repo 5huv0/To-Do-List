@@ -1,0 +1,18 @@
+.add-button{
+    height: 30px;
+    width: 80px;
+    border: none;
+    border-radius: 10px;
+    margin: 10px;
+    background:linear-gradient(to right, #67C6E3, #378CE7) ;
+}
+
+.container{
+    margin-top: 200px;
+}
+
+.lists{
+    height: 300px;
+    width: 300px;
+    background-color: grey;
+}
