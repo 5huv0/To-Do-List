@@ -1,8 +1,6 @@
 function addWork(){
-    let a ;
     const inputs = document.getElementById('input').value;
-    const addToList = document.getElementById('lists').innerHTML;
-    for(a = 0 ; a <= 5 ; a++){
+    // const addToList = document.getElementById('lists').innerHTML;
 
-    }
+   document.getElementById('lists').innerHTML = '1. ' + document.getElementById('input').value;
 }
